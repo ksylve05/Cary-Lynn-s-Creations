@@ -112,6 +112,10 @@ section {
   display: block;
 }
 
+.hours {
+  margin: 0;
+}
+
 body {
   line-height: 1;
 }
